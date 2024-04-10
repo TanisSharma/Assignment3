@@ -1,5 +1,5 @@
-
-public class Tanish_Sharma {
+package Assignment3;
+public class Assignment_3Tanish_Sharma {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,8 +18,7 @@ public class Tanish_Sharma {
 		    totalRolls = totalRolls + diceRolls[index];
 		}
 		System.out.println("Total rolls were: " + totalRolls);
-		System.out.println("Program by Your Name");
-
+		System.out.println("Program by Tanish Sharma");
 	}
 
 }
